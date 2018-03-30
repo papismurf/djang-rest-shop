@@ -1,2 +1,6 @@
 # djang-rest-shop
-Django Rest API for managing products
+
+Django RESTful API for managing products
+=======
+Django RESTful API for managing products
+
