@@ -16,10 +16,13 @@ def get_delete_update_product(request, pk):
     # get details of a single product
     if request.method == 'GET':
         return Response({})
+    # delete a single product
     elif request.method == 'DELETE':
         return Response({})
+    # update details of a single product
     elif request.method == 'PUT':
         return Response({})
+
 
 @api_view(['GET','POST'])
 def get_post_product(request):
